@@ -5,4 +5,4 @@ change 1
 # Running the app
 >npm start
 
-#Adding first change
+#Adding the first change
